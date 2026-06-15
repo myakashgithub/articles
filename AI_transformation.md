@@ -9,5 +9,5 @@ https://www.linkedin.com/pulse/your-ai-roadmap-has-40-ideas-only-3-deserve-budge
 ## Why AI Projects Fail: The Seven-Act Tragedy Playing Out Across Every Organisation
 https://www.linkedin.com/pulse/why-ai-projects-fail-seven-act-tragedy-playing-out-across-akash-gupta-qayec/?trackingId=XUgEn7NIys85nofL2Nl%2FjQ%3D%3D
 ## "IT Doesn't Matter" — Nicholas G. Carr (HBR, 2003) Explained ... NOW AI Doesn't Matter
-https://github.com/myakashgithub/articles/blob/main/ai_threat_modelling.md
+https://www.linkedin.com/pulse/doesnt-matter-nicholas-g-carr-hbr-2003-explained-now-ai-akash-gupta-ovjqc/?trackingId=MKRlSQH1Vvfjdxc9pwOwqg%3D%3D
 
