@@ -24,3 +24,5 @@ https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-secu
 https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-zugsc/?trackingId=Lm4UBhH3QMkq2suxsjqc9A%3D%3D
 ## Performance Benchmarks and Optimization Strategies
 https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-njhnc/?trackingId=13Sw%2FZNGe6%2B7frB2gKEiCg%3D%3D
+## The Complete Guide to Guardrails for Agentic AI: An 8-Layer Security Framework PART - 14
+https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-bet9c/?trackingId=K2uAOOciSKngSKOGSci4Mw%3D%3D
