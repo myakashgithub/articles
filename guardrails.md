@@ -14,3 +14,13 @@ https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-secu
 https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-ffvzc/?trackingId=TOEo9zOtO6%2B%2FjBgZhFlmLg%3D%3D
 ## Layer 7: Temporal Guardrails
 https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-o9rlc/?trackingId=KVupdaWHOPXUxDxJJkP%2F4g%3D%3D
+## Layer 8: Data Lineage Guardrails
+https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-zqf6c/?trackingId=zlqjd9Fw0JFbPE25y2BgDA%3D%3D
+## Comprehensive Integration Example: All 8 Layers Working Together
+https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-btpic/?trackingId=q9vV9QTVJPHDZh7c9y8%2FXA%3D%3D
+## Deployment Guide with Architecture Diagrams
+https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-zomlc/?trackingId=jycaG3O8r8OBPJcezc0R9A%3D%3D
+## Production Deployment Checklist
+https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-zugsc/?trackingId=Lm4UBhH3QMkq2suxsjqc9A%3D%3D
+## Performance Benchmarks and Optimization Strategies
+https://www.linkedin.com/pulse/complete-guide-guardrails-agentic-ai-8-layer-security-akash-gupta-njhnc/?trackingId=13Sw%2FZNGe6%2B7frB2gKEiCg%3D%3D
