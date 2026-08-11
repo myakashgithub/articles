@@ -17,3 +17,10 @@ https://www.linkedin.com/pulse/llm052026-data-model-poisoning-akash-gupta-cpjfc/
 
 # LLM06:2026 — Unbounded Consumption
 https://www.linkedin.com/pulse/llm062026-unbounded-consumption-akash-gupta-hitec/?trackingId=z9%2FzBKEdMfr5m8yLNKJn9Q%3D%3D
+
+# LLM07:2026 — Misinformation
+https://www.linkedin.com/pulse/llm072026-misinformation-akash-gupta-kfcyc/?trackingId=%2F8%2FFBHMBJy8D3yut2Jr7vA%3D%3D
+
+
+# LLM08:2026 — Hidden Context Exposure
+https://www.linkedin.com/pulse/llm082026-hidden-context-exposure-akash-gupta-vltbc/
