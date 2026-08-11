@@ -1,5 +1,6 @@
-# OWASP TOP 10 FOR LLM
+# OWASP TOP 10 FOR LLM 2025
 https://www.linkedin.com/pulse/owasp-top-10-llm-akash-gupta-1mpkc/?trackingId=pTe9gF%2BfmlbnGH7V9iDqnA%3D%3D
+
 # LLM01:2026 — Prompt Injection
 https://www.linkedin.com/pulse/llm012026-prompt-injection-akash-gupta-fgbpc/?trackingId=jIObugJnoDpN9KIHO9WUKw%3D%3D
 
@@ -21,6 +22,14 @@ https://www.linkedin.com/pulse/llm062026-unbounded-consumption-akash-gupta-hitec
 # LLM07:2026 — Misinformation
 https://www.linkedin.com/pulse/llm072026-misinformation-akash-gupta-kfcyc/?trackingId=%2F8%2FFBHMBJy8D3yut2Jr7vA%3D%3D
 
-
 # LLM08:2026 — Hidden Context Exposure
 https://www.linkedin.com/pulse/llm082026-hidden-context-exposure-akash-gupta-vltbc/
+
+# LLM09:2026 — Vector and Embedding Weaknesses
+https://www.linkedin.com/pulse/llm092026-vector-embedding-weaknesses-akash-gupta-xpfbc/
+
+# LLM10:2026 — Improper Output Handling
+https://www.linkedin.com/pulse/llm102026-improper-output-handling-akash-gupta-snlnc/
+ 
+
+
