@@ -8,3 +8,7 @@ https://www.linkedin.com/pulse/ancient-wisdom-modern-minds-8-timeless-principles
 https://www.linkedin.com/pulse/knowing-yourself-lead-future-leadership-styles-chief-digital-gupta-shiic/?trackingId=Tz7KwLZQXI1wZYSzOwiSxg%3D%3D
 # 7 Skills No One Can Steal From You
 https://www.linkedin.com/pulse/7-skills-one-can-steal-from-you-akash-gupta-3qvnc/?trackingId=yGN4dktBAKGRIvFywdHzLQ%3D%3D
+# What Your Emotions Are Really Trying to Tell You?
+https://www.linkedin.com/pulse/what-your-emotions-really-trying-tell-you-akash-gupta-tnj1c/?trackingId=k9GByRSJ1i9wxRcW7YFUhA%3D%3D
+# The Complete Psychological Map: What Your Emotions, Behaviours, and Thoughts Are Really Telling You
+https://www.linkedin.com/pulse/complete-psychological-map-what-your-emotions-behaviours-akash-gupta-gt2fc/?trackingId=joy3A86iYzrjPDmxL6JxGQ%3D%3D
