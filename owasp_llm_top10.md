@@ -8,3 +8,12 @@ https://www.linkedin.com/pulse/llm022026-sensitive-information-disclosure-akash-
 
 # LLM03:2026 — Excessive Agency
 https://www.linkedin.com/pulse/llm032026-excessive-agency-akash-gupta-bionc/?trackingId=WrakvA4RZJWoH58Z6fYXIA%3D%3D
+
+# LLM04:2026 — Supply Chain
+https://www.linkedin.com/pulse/llm042026-supply-chain-akash-gupta-yq8wc/?trackingId=xnIwHMJTLyRbgjKZUT3qtA%3D%3D
+
+# LLM05:2026 — Data and Model Poisoning
+https://www.linkedin.com/pulse/llm052026-data-model-poisoning-akash-gupta-cpjfc/?trackingId=e9hRYo6ALwS2tK44PrZ76g%3D%3D
+
+# LLM06:2026 — Unbounded Consumption
+https://www.linkedin.com/pulse/llm062026-unbounded-consumption-akash-gupta-hitec/?trackingId=z9%2FzBKEdMfr5m8yLNKJn9Q%3D%3D
