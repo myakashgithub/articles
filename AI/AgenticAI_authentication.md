@@ -1,5 +1,4 @@
-# A Day in the Life of an SVID
-https://www.linkedin.com/pulse/day-life-svid-akash-gupta-rbaoc/?trackingId=zPhNsjnGrTN4DHeEOh%2FviQ%3D%3D
+
 # AGENTIC AI AUTHENTICATION (SPIFFE for AI Agents) PART - 1
 https://www.linkedin.com/pulse/agentic-ai-authentication-spiffe-agents-part-1-akash-gupta-byzhc/?trackingId=SUPKPPx5KL1EKTUlhMpFeA%3D%3D
 # AGENTIC AI AUTHENTICATION (SPIFFE for AI Agents) PART - 2
